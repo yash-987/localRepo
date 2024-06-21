@@ -1,0 +1,9 @@
+div{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+ul>div>input{
+    border: none;
+}
